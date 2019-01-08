@@ -1,5 +1,6 @@
 function a(){
-    return "a";
+    let a = "A";
+    return a;
 }
 
 function b(){
