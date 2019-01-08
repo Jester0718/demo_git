@@ -9,4 +9,7 @@ function b(){
 
 function c(){
     return "C";
+
+function d(){
+    return "D";
 }
